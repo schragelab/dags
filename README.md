@@ -1,2 +1,2 @@
-# sl_airflow_dags
+# dags
 Airflow DAGs for data analysis pipelines
